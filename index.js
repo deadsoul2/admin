@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '-'
-status = idle
+const status=idle
 
 client.on('ready', function() {
     console.log(`i am ready ${client.user.username}`);
