@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '-'
+status= idle
 
 client.on('ready', function() {
     console.log(`i am ready ${client.user.username}`);
@@ -231,4 +232,4 @@ client.on('message', (message) => {
 });
 
 
-client.login('token');
+client.login('NTEyMjUzNjgyMjUxNzI2ODc4.Ds2xig.FpgcGBPFX_LsTrpBucF5hRrgGds');
