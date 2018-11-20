@@ -1,0 +1,7 @@
+{
+  "name": "me",
+  "version": "",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
